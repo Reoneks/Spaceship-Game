@@ -1,0 +1,2 @@
+PyAutoGUI==0.9.49
+pygame==1.9.6
